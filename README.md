@@ -20,23 +20,7 @@ Welcome to our submission for the F1nalyze competition hosted by IEEE MUJ Comput
 - *submitted.csv*: CSV file containing the predicted finishing positions of Formula 1 drivers as per competition requirements.
 - *README.md*: This file, providing an overview of the project, instructions, and considerations for reproducing the results.
 
-## Methodology
 
-### Data Preprocessing
-
-- *Data Cleaning*: Handle missing values, ensure data consistency, and address outliers.
-- *Feature Engineering*: Create new features from existing data to enhance predictive performance.
-- *Normalization*: Scale numerical features as necessary for machine learning algorithms.
-
-### Model Selection and Training
-
-- *Models Used*: Include the list of models tested (e.g., Random Forest, XGBoost).
-- *Evaluation*: Discuss the evaluation metrics used during model training and validation (e.g., RMSE).
-
-### Predictions and Results
-
-- *Submission Format*: Ensure that submission.csv adheres to the required format.
-- *Performance*: Detail the performance of the final model on the public leaderboard.
 
 ## Dependencies
 
