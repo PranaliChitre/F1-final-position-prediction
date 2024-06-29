@@ -12,12 +12,12 @@ Welcome to our submission for the F1nalyze competition hosted by IEEE MUJ Comput
 
 ### Team Members
 
-- *Participants*: [Your Name], [Partner's Name] (if applicable)
+- *Participants*: Pranali Chitre, Advait Dongre
 
 ## Files Included
 
-- *notebook.ipynb*: Jupyter notebook containing the Python code used for data analysis, model development, and predictions.
-- *submission.csv*: CSV file containing the predicted finishing positions of Formula 1 drivers as per competition requirements.
+- *New.ipynb*: Jupyter notebook containing the Python code used for data analysis, model development, and predictions.
+- *submitted.csv*: CSV file containing the predicted finishing positions of Formula 1 drivers as per competition requirements.
 - *README.md*: This file, providing an overview of the project, instructions, and considerations for reproducing the results.
 
 ## Methodology
@@ -51,14 +51,9 @@ Welcome to our submission for the F1nalyze competition hosted by IEEE MUJ Comput
 
 ### Additional Notes
 
-- *External Data*: Mention any external datasets used and cite their sources.
-- *Code Organization*: Describe how the code is structured and any important modules or functions.
-- *Contact*: Provide contact information for further inquiries.
+- *External Data*: From:https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
-## Acknowledgments
 
-- Acknowledge any individuals or resources that significantly contributed to the project.
 
 ---
 
-This README file should serve as a comprehensive guide for anyone reviewing your submission, ensuring transparency and ease of understanding regarding your approach, methodologies, and results in the F1nalyze competition. Adjust the content as necessary based on specific details of your implementation and findings.
